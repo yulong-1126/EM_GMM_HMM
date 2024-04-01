@@ -11,5 +11,5 @@ numpy==1.18.3
 dash_html_components==1.0.3
 hmmlearn==0.2.3
 plotly==4.6.0
-Pillow==7.1.2
+Pillow==10.3.0
 scikit_learn==0.22.2.post1
